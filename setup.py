@@ -56,3 +56,24 @@ os.system('code --version')
 os.system('echo " "')
 os.system('echo "=============================================== "')
 os.system('echo " "')
+
+
+
+#Install xdotool
+os.system('sudo apt-get install xdotool')
+#os.system('ctrl + shift + n')
+
+os.system('echo " "')
+os.system('echo "=============================================== "')
+os.system('echo " "')
+
+
+
+
+
+
+#Install XDM
+os.system('sudo ./install.sh')
+os.system('echo " "')
+os.system('echo "=============================================== "')
+os.system('echo " "')
